@@ -1,4 +1,4 @@
-"""KL-UCB algorithm with functions to display what's happening cf. Auer et al. 2002"""
+"""KL-UCB algorithm with functions to display what's happening cf. Garivier -- Cappé 2011"""
 # %%
 from environment import Environment
 import numpy as np
